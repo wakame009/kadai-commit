@@ -5,6 +5,6 @@
 <title>タイトル</title>
 </head>
 <body>
-これで終わりです。
+これは最初のコミットです。
 </body>
 </html>
